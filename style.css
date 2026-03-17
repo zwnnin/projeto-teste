@@ -1,0 +1,21 @@
+body{
+background-color: pink;
+margin: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+background-color: firebrick;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+display: flex;
+}
+h1{
+
+}
+input{
+
+}
+button{
+
+}
