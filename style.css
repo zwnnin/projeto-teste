@@ -23,3 +23,22 @@ background-color: antiquewhite;
 width: 150px;
 border-radius: 30px;
 }
+main{
+    padding: 20px;
+    background-color: red;
+    border-radius: 10px;
+}
+section{
+display: flex;
+align-items: center;
+justify-content: space-around;   
+color: aliceblue;
+margin: 20px; 
+width: 90vw;
+}
+p{
+    width: 400px;
+}
+img{
+width: 400px;
+}
